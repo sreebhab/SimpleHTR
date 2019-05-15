@@ -15,7 +15,7 @@ class FilePaths:
 	fnCharList = '../model/charList.txt'
 	fnAccuracy = '../model/accuracy.txt'
 	fnTrain = '../data/'
-	fnInfer = '../data/good.png'
+	fnInfer = '../data/hello.png'
 	fnCorpus = '../data/corpus.txt'
 
 
